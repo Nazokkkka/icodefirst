@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+h5{
+    font-size: 15px;
+}
+
+
+p{
+    font-size: 15px;
+}
+
+a{
+    background-color: blueviolet;
+}
+.hov:hover{
+    background-color: mediumpurple;
+}
+
+.act:active{
+    background-color: hotpink;
+}
+
+.purp{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.def{
+    width: 150px;
+    height: 30px;
+}
+.hov{
+    width: 150px;
+    height: 30px;
+}
+.act{
+    width: 150px;
+    height: 30px;
+}
+a{
+    text-align: center;
+    color: aliceblue;
+}
